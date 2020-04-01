@@ -32,4 +32,7 @@ Or run the jar file:
 To have a look about the files generated during the analysis go to the folder ".../result_FSAT" before starting a new analysis, i.e. before answering the question "continue(Y/N)", since all the files are deleted at each iteration.
 
 
+A set of sample models for testing the leakage detection analyzer can be found in the "pe-bpmn models" directory.
+
+
    
